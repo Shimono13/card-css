@@ -1,0 +1,64 @@
+ .contenitore {
+   width: 20%;
+ 
+   border: 1px solid gray;
+
+ }
+
+ .immagine img {
+
+   max-width: 100%;
+ }
+
+ h1 {
+   padding: 1vw;
+   margin: 0;
+   padding-bottom: 0;
+   font-size: 2vw;
+ }
+
+ p {
+   padding: 1vw;
+   margin: 0;
+   font-size: 1vw;
+
+
+ }
+
+ ul {
+   list-style: none;
+   padding-left: 0;
+   margin: 0;
+   font-size: 1vw;
+
+
+ }
+
+ li>a {
+   padding: 1vw;
+
+ }
+
+ li {
+   padding-top: 1vw;
+   padding-bottom: 1vw;
+
+   border-top: 1px solid black;
+ }
+
+ .linkmagic {
+   border-top: 1px solid gray;
+   display: flex;
+   padding-left: 1vw;
+
+ }
+
+ .linkmagic a {
+   
+   font-size: 1vw;
+   padding: 1vw 1vw;
+   padding-left: 0;
+ }
+
+
+ 
